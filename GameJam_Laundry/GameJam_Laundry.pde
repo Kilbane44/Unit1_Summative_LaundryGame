@@ -94,7 +94,7 @@ void mousePressed()
 
 void Game()
 {
-  background(0);
+  background(255);
 
 
   textSize(20);
